@@ -1,2 +1,2 @@
-module AppointmentHelper
+module AppointmentsHelper
 end
