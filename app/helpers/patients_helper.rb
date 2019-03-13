@@ -1,2 +1,2 @@
-module PatientHelper
+module PatientsHelper
 end
